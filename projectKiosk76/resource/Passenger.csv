@@ -1,0 +1,6 @@
+bookingID,flightNo,surname,firstname,gender,IDNumber,scanID,ticketExist,class
+DF87G3,BA0445,Rossi,Taylor,F,11010119900,52470823,false,E
+YS2PDK,BA0445,Wilson,John,M,33080220011,80472677,false,B
+GR42WW,BA8564,Ronald,William,M,31010417489,93395443,true,B
+TXHYV9,BA8564,Trump,David,M,43010219940,45200110,true,F
+JF6A6L,BA8564,Swift,Alice,F,64010419990,64379559,true,F
